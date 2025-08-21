@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin: 50px;
+    color: blueviolet;
+  }
+  input, button {
+    padding: 12px;
+    margin: 10px;
+    color: rgb(203, 30, 186);
+  }
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #752a7e;
+    padding: 8px;
+  }
+  th {
+    background: #d6f54e;
+  }
+  
